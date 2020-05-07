@@ -1,0 +1,21 @@
+
+mysterySort1 is bubble sort
+Your evidence: When running and stopping the sort midway through it seems like
+the larger numbers "bubble" to the top of the set, a characteristic trait of
+the bubble sort.
+
+mysterySort2 is heap sort
+Your evidence: When running this sort, the large numbers are ordered at the end
+and the numbers from the beginning to the middle are unsorted but descending until
+they reach sorted ascending numbers.
+
+mysterySort3 is insertion sort
+Your evidence: The first some numbers are sorted and the rest are unsorted. Also,
+it was the last one I looked at and it was the only sort that I hadn't deduced.
+
+mysterySort4 is quick sort
+Your evidence: It takes the shortest amount out of any of them. (about 200ms).
+
+mysterySort5 is selection sort
+Your evidence: If you run the sort for 10 seconds, the only difference is the
+first element is in the right place.
